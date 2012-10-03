@@ -1,0 +1,3 @@
+This project requires matplot, which can be installed from matplotlib.org or if you are using Ubuntu with sudo apt-get install python-matplotlib
+
+This project is best used with Python 3.x
